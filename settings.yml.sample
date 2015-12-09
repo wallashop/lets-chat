@@ -29,7 +29,7 @@ xmpp:
   domain: example.com
 
 database:
-  uri: mongodb://localhost/letschat
+  uri:  mongodb://admin:amdin@ds027415.mongolab.com:27415/lets-chat
 
 secrets:
   cookie: secretsauce
